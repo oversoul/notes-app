@@ -3,7 +3,6 @@ from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QHBoxLayout, QVB
 from PyQt5.QtCore import Qt, QSize
 from PyQt5.QtGui import QFont, QFontMetrics, QColor
 
-
 import syntax
 import os.path
 from database import ColorfullModel, InitDb
